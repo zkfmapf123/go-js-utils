@@ -1,4 +1,4 @@
-module github.com/zkfmapf123/go-js-tools
+module github.com/zkfmapf123/go-js-utils
 
 go 1.21.7
 
