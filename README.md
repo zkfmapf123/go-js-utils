@@ -7,14 +7,12 @@
 ## Install
 
 ```
-    go get -u github.com/zkfmapf123/go-js-utils@version
+    go get -u github.com/zkfmapf123/go-js-utils@1.0.3
 ```
 
 ## Object Method
 
-```sh
-    ./object.go
-```
+[object code](./object.go)
 
 |golang|js-method|
 |---|---|
@@ -24,6 +22,16 @@
 
 ## Array Method
 
-```sh
-    ./array.go
-```
+[array code](./array.go)
+
+- Contains
+
+## Wrapping Method
+
+[wrapArray code](./wrapArray.go)
+
+|golang|js-method|
+|---|---|
+|Map|map|
+|Filter|filter|
+|Reduce|reduce|
