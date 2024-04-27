@@ -7,7 +7,7 @@
 ## Install
 
 ```
-    go get -u github.com/zkfmapf123/go-js-utils
+    go get -u github.com/zkfmapf123/go-js-utils@version
 ```
 
 ## Object Method
