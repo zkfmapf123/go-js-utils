@@ -15,3 +15,9 @@
 |OKeys|Object.keys|
 |OValues|Object.values|
 |OEntries|Object.entries|
+
+## Array Method
+
+```sh
+    ./array.go
+```
