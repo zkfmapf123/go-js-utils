@@ -2,7 +2,13 @@
 
 ## Desc
 
-- JS에 유용한 함수를 Go에서 사용하자
+- Using js method in Golang
+
+## Install
+
+```
+    go get -u github.com/zkfmapf123/go-js-utils
+```
 
 ## Object Method
 
