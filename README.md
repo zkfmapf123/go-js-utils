@@ -7,7 +7,7 @@
 ## Install
 
 ```
-    go get -u github.com/zkfmapf123/go-js-utils@1.0.6
+    go get -u github.com/zkfmapf123/go-js-utils@1.0.7
 ```
 
 ## Object Method
@@ -38,4 +38,10 @@
 
 ## parallelism 
 
+[promise code](./parallelism.go)
+
 - PromiseAll
+
+## Help
+
+- <a href="https://formulae.brew.sh/formula/golines"> golines </a>
