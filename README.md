@@ -7,7 +7,7 @@
 ## Install
 
 ```
-    go get -u github.com/zkfmapf123/go-js-utils@1.0.3
+    go get -u github.com/zkfmapf123/go-js-utils@1.0.6
 ```
 
 ## Object Method
@@ -35,3 +35,7 @@
 |Map|map|
 |Filter|filter|
 |Reduce|reduce|
+
+## parallelism 
+
+- PromiseAll
