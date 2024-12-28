@@ -14,11 +14,11 @@
 
 [object code](./object.go)
 
-|golang|js-method|
-|---|---|
-|OKeys|Object.keys|
-|OValues|Object.values|
-|OEntries|Object.entries|
+| golang   | js-method      |
+| -------- | -------------- |
+| OKeys    | Object.keys    |
+| OValues  | Object.values  |
+| OEntries | Object.entries |
 
 ## Array Method
 
@@ -30,17 +30,26 @@
 
 [wrapArray code](./wrapArray.go)
 
-|golang|js-method|
-|---|---|
-|Map|map|
-|Filter|filter|
-|Reduce|reduce|
+| golang | js-method |
+| ------ | --------- |
+| Map    | map       |
+| Filter | filter    |
+| Reduce | reduce    |
 
-## parallelism 
+## parallelism
 
 [promise code](./parallelism.go)
 
 - PromiseAll
+
+## JSON
+
+[json code](./json.go)
+
+| golang        | js-method      |
+| ------------- | -------------- |
+| JsonStringify | JSON.stringify |
+| JsonParse     | JSON.parse     |
 
 ## Help
 
